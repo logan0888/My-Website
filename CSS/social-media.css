@@ -1,0 +1,123 @@
+.sm-box {
+    width: 74%;
+    height: 210px;
+    background-color:#a7b99b;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: absolute;
+    top: 150px;
+    left: 88px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.github {
+width: fit-content;
+height: fit-content;
+}
+.instagram {
+width: fit-content;
+height: fit-content;
+}
+.internet-archive {
+    width: fit-content;
+    height: fit-content;
+}
+@media only screen and (min-height: 760px) {
+    .sm-box {
+        top: 190px;
+    }
+}
+@media only screen and (min-height: 800px) {
+    .sm-box {
+        top: 200px;
+    }
+}
+@media only screen and (min-height: 810px) {
+    .sm-box {
+        top: 210px;
+        }
+}
+@media only screen and (min-height: 844px) {
+    .sm-box {
+        top: 230px;
+    }
+}
+@media only screen and (min-height: 854px) {
+    .sm-box {
+        top: 220px;
+    }
+}
+@media only screen and (min-height: 883px) {
+    .sm-box {
+        top: 245px;
+    }
+}
+@media only screen and (min-height: 896px) {
+    .sm-box {
+        top: 220px;
+        height: 235px;
+    }
+}
+@media only screen and (min-height: 915px) {
+    .sm-box {
+        top: 215px;
+        height: 240px;
+    }
+}
+@media only screen and (min-height: 926px) {
+    .sm-box {
+        top: 200px;
+    }   
+}
+@media only screen and (min-height: 1080px) {
+    .sm-box {
+        top: 200px;
+        height: 350px;
+    }
+}
+@media only screen and (min-height: 1280px) {
+    .sm-box {
+        top: 200px;
+        height: 350px;
+    }
+}
+@media only screen and (min-width: 360px) {
+    .sm-box {
+        left: 85px;
+    }
+}
+@media only screen and (min-width: 375px) { 
+    .sm-box {
+        left: 88.5px;
+    }
+}
+@media only screen and (min-width: 384px) {
+    .sm-box {
+        left: 90px;
+    }
+}
+@media only screen and (min-width: 412px) {
+    .sm-box {
+        left: 97px;
+    }
+}
+@media only screen and (min-width: 414px) {
+    .sm-box {
+        left: 97px;
+    }
+}
+@media only screen and (min-width: 428px) {
+    .sm-box {
+        left: 100px;
+    }
+}
+@media only screen and (min-width: 800px) {
+    .sm-box {
+        left: 190px;
+    }
+} 
+@media only screen and (min-width: 810px) { 
+    .sm-box {
+        left: 190px;
+    }
+}

@@ -1,0 +1,149 @@
+.about-me-main-box {
+    width: 74%;
+    height: 575px;
+    position: absolute;
+    top: 87px;
+    left: 88px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color:#a7b99b;
+}
+.about-me-title {
+    font-size: 160%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    border-bottom: 3px solid black;
+    padding-bottom: 5px;
+}
+.my-information-p1 {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 105%;
+    font-weight: 4px;
+}
+.my-information-p2 {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 105%;
+    font-weight: 4px;
+}
+@media only screen and (min-height: 760px) {
+    .about-me-main-box {
+        height: 665px;
+    }
+}
+@media only screen and (min-height: 800px) {
+    .about-me-main-box {
+        height: 705px;
+    }
+}
+@media only screen and (min-height: 810px) {
+    .about-me-main-box {
+        height: 720px;
+    }
+}
+@media only screen and (min-height: 844px) {
+    .about-me-main-box {
+        height: 750px;
+    }
+}
+@media only screen and (min-height: 854px) {
+    .about-me-main-box {
+        height: 760px;
+    }
+}
+@media only screen and (min-height: 883px) {
+    .about-me-main-box {
+        height: 790px;
+    }
+}
+@media only screen and (min-height: 896px) {
+    .about-me-main-box {
+        height: 805px;
+    }
+}
+@media only screen and (min-height: 915px) {
+    .about-me-main-box{
+        height: 820px;
+    }
+}
+@media only screen and (min-height: 926px) {
+    .about-me-main-box {
+        height: 830px;
+    }
+}
+@media only screen and (min-height: 1080px) {
+    .about-me-main-box {
+        height: 985px;
+    }
+}
+@media only screen and (min-height: 1280px) {
+    .about-me-main-box {
+        height: 1185px;
+    }
+}
+@media only screen and (min-width: 360px) {
+    .about-me-main-box {
+        left: 85px
+    }
+}
+@media only screen and (min-width: 375px) {
+    .about-me-main-box {
+        left: 88.5px;
+    }
+}
+@media only screen and (min-width: 384px) {
+    .about-me-main-box {
+        left: 90px;
+    }
+}
+@media only screen and (min-width: 412px) {
+    .about-me-main-box {
+        left: 97px;
+    }
+}
+@media only screen and (min-width: 414px) {
+    .about-me-main-box {
+        left: 97px;
+    }
+}
+@media only screen and (min-width: 428px) {
+    .about-me-main-box {
+        left: 100px;
+    }
+}
+@media only screen and (min-width: 800px) {
+    .about-me-main-box {
+        left: 190px;
+    }
+    .about-me-title {
+        font-size: 180%;
+    }
+    .my-information-p1 {
+        font-size: 120%;
+    }
+    .my-information-p2 {
+        font-size: 120%;
+}
+}
+@media only screen and (min-width: 810px) {
+    .about-me-main-box {
+        left: 190px;
+    }
+    .about-me-title {
+        font-size: 180%;
+    }
+    .my-information-p1 {
+        font-size: 120%;
+    }
+    .my-information-p2 {
+        font-size: 120%;
+    }
+}
